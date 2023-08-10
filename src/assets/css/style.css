@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#app {
+    width: 800px;
+    margin: 0 auto;
+}
